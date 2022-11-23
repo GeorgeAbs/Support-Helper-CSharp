@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{969A7664-31CB-455D-99E9-31117A612F13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Support_Helper_v2</RootNamespace>
+    <AssemblyName>Supports Helper</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Disclaimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disclaimer.Designer.cs">
+      <DependentUpon>Disclaimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Введите_номер_расчетной_точки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Введите_номер_расчетной_точки.Designer.cs">
+      <DependentUpon>Введите_номер_расчетной_точки.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Гидроамортизаторы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Гидроамортизаторы.Designer.cs">
+      <DependentUpon>Гидроамортизаторы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="неверный_эксель.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="неверный_эксель.Designer.cs">
+      <DependentUpon>неверный_эксель.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Неподвижные.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Неподвижные.Designer.cs">
+      <DependentUpon>Неподвижные.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Пружины.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Пружины.Designer.cs">
+      <DependentUpon>Пружины.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Распорки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Распорки.Designer.cs">
+      <DependentUpon>Распорки.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Расчетная_точка_не_найдена.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Расчетная_точка_не_найдена.Designer.cs">
+      <DependentUpon>Расчетная_точка_не_найдена.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Скользящие направляющие v2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Скользящие направляющие v2.Designer.cs">
+      <DependentUpon>Скользящие направляющие v2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Скользящие.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Скользящие.Designer.cs">
+      <DependentUpon>Скользящие.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Скольящую опору выбрать двухкорпусной.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Скольящую опору выбрать двухкорпусной.Designer.cs">
+      <DependentUpon>Скольящую опору выбрать двухкорпусной.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Структура SUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Структура SUP.Designer.cs">
+      <DependentUpon>Структура SUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Хомуты.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Хомуты.Designer.cs">
+      <DependentUpon>Хомуты.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Disclaimer.resx">
+      <DependentUpon>Disclaimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Введите_номер_расчетной_точки.resx">
+      <DependentUpon>Введите_номер_расчетной_точки.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Гидроамортизаторы.resx">
+      <DependentUpon>Гидроамортизаторы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="неверный_эксель.resx">
+      <DependentUpon>неверный_эксель.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Неподвижные.resx">
+      <DependentUpon>Неподвижные.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Пружины.resx">
+      <DependentUpon>Пружины.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Распорки.resx">
+      <DependentUpon>Распорки.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Расчетная_точка_не_найдена.resx">
+      <DependentUpon>Расчетная_точка_не_найдена.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Скользящие направляющие v2.resx">
+      <DependentUpon>Скользящие направляющие v2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Скользящие.resx">
+      <DependentUpon>Скользящие.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Скольящую опору выбрать двухкорпусной.resx">
+      <DependentUpon>Скольящую опору выбрать двухкорпусной.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Структура SUP.resx">
+      <DependentUpon>Структура SUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Хомуты.resx">
+      <DependentUpon>Хомуты.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\varik3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Прижим-отрыв.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

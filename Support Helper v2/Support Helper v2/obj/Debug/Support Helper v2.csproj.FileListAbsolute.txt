@@ -1,0 +1,48 @@
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\bin\Debug\Supports Helper.exe.config
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\bin\Debug\Supports Helper.exe
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\bin\Debug\Supports Helper.pdb
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csprojAssemblyReference.cache
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.ResolveComReference.cache
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Form1.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Properties.Resources.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.GenerateResource.cache
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.CoreCompileInputs.cache
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Supports Helper.exe
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Supports Helper.pdb
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Введите_номер_расчетной_точки.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.неверный_эксель.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Пружины.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Расчетная_точка_не_найдена.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Гидроамортизаторы.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Распорки.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скользящие.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Неподвижные.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Form2.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скользящие_направляющие_v2.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Хомуты.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скольящую_опору_выбрать_двухкорпусной.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Структура_SUP.resources
+C:\Users\Master of the World\source\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Disclaimer.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.AssemblyReference.cache
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.ResolveComReference.cache
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Disclaimer.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Form1.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Form2.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Properties.Resources.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Введите_номер_расчетной_точки.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Гидроамортизаторы.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.неверный_эксель.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Неподвижные.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Пружины.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Распорки.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Расчетная_точка_не_найдена.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скользящие_направляющие_v2.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скользящие.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Скольящую_опору_выбрать_двухкорпусной.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Структура_SUP.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support_Helper_v2.Хомуты.resources
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.GenerateResource.cache
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Support Helper v2.csproj.CoreCompileInputs.cache
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Supports Helper.exe
+C:\Users\gkyudin\Desktop\repos\Support Helper v2\Support Helper v2\obj\Debug\Supports Helper.pdb
